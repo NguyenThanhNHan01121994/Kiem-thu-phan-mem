@@ -1,0 +1,36 @@
+Chuong 2
+1.Software development life cycle(SDLC)
+* What is SDLC?
+ - Chu trình phát tri?n ph?n m?m
+    Phân tích <-- thi?t k? <-- l?p trình<--ki?m th? <-- b?o trì/ v?n hành
+* Why using a process model?
+2. Test levels
+ - Component Testing(kiem thu thành ph?n)
+ - Integration Testing(ki?m th? tích h?p)
+ - System Testing(ki?m th? h? th?ng)
+ - Acceptance Testing(ki?m th? ch?p nh?n)
+
+ * Component Testing(dev,tester test)
+ T?p trung vào các module, các program.
+ * Integration Testing(tester,leader test)
+ Ðu?c th?c hi?n sau khi ki?m th? thành ph?n 
+ * System Testing(tester test)
+ Sau khi kiêm th? tích h?p hoàn t?t
+ Ðánh giá toàn b? h? th?ng 
+ * Acceptance Testing(user test)
+ Ðu?c th?c hi?n ngay sau khi ki?m th? h? th?ng th?c hi?n. Giao cho khách hàng
+ 3. Test types( t?p trung vào các dôi tu?ng riêng bi?t)
+ * Functional testing( ki?m th? ch?c nang)
+ * Non-Functional testing( ki?m th? phi ch?c nang)
+ * Structural testing( ki?m th? c?u trúc)
+   Áp d?ng cho t?t c? các m?c ki?m th? 
+ * Testing ralated to changes ( ki?m th? xác nh?n và ki?m th? h?i quy)
+ * Maintenance testing( ki?m th? b?o trì)
+Chuong 3 Phân tích yêu c?u QA(quality assurance)
+1. Yêu c?u ph?n m?m
+2. Tài li?u phân tích yêu c?u quan tr?ng
+3. Làm th? nào d? xây d?ng tài li?u phân tích yêu c?u 
+ - Ti?p c?n t?ng quan h? th?ng
+ - Xác d?nh các ch?c nang
+ - Xác d?nh giao di?n
+ - C?c yêu c?u v? k? thu?t
