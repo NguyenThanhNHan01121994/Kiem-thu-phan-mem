@@ -1,0 +1,32 @@
+Chuong 4 : Test Plan(K? ho?ch ki?m th?)
+1. GI?i thi?u
+- Lúc nào c?n test plan?
+L?p k? ho?c ki?m th? --> thi?t k? ki?m th?--> th?c thi ki?m th? --> xác d?nh tiêu chu?n kiêm th? --> l?p báo cáo
+- M?c d?ch c?a test plan?
+Xác d?nh du?c ph?m vi d? ki?m th? 
+- C?u trúc
+2. T?o test plan
+- Hi?u du?c yêu c?u
+- Li?t kê t?t c? các m?c tiêu ki?m th?
+   + Ch?c nang
+   + Phi ch?c nang: giao di?n, kh? nang v?n hành, tính ti?n l?i, d? tin c?y, 
+- Xác d?nh chi?n lu?c
+   + Test level
+   + Phuong pháp ki?m th?(test method) : - Black box
+			                 - White box
+	                                 - Gray box
+			                 - Ad box  
+   + Lo?i ki?m th?(test type)
+- L?p k? ho?ch t?o test case
+   + S? lu?ng tsst case
+   + U?c lu?ng th?i gian
+   + Ai th?c hi?n
+   + L?p k? ho?ch g? l?i
+- Xác d?nh ngày b?t d?u/ ngày k?t thúc
+- Xác d?nh môi tru?ng test
+   + H? di?u hành
+   + Trình duy?t
+   + Thi?t b?
+- Xác d?nh tiêu chu?n b?t d?u: Ti?n di?u ki?n
+- Xác d?nh tiêu chu?n k?t thúc : H?u di?u ki?n
+- Xác d?nh tiêu chu?n h?y b?: 
