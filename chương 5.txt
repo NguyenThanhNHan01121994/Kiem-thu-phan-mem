@@ -1,0 +1,25 @@
+Chuong 5 : Ca´c ky~ thuâ?t kiê?m thu?
+1. Gioi thiê?u
+Kiê?m thu? dô?ng
+ - Du?a trên câ´u tru´c(white box): + Câu lê?nh
+                                  + Quyê´t di?nh
+		  + Ðiê`u kiê?n
+		  + Ða diê`u kiê?n	
+ - Du?a trên su? xa´c di?nh(Black box):+Ky~ thuâ?t phân vu`ng tuong duong (EV)
+			         + Phân ti´ch gia´ tri? biên (BAV)
+			         + Lâ?p ba?ng quyê´t di?nh
+			         + Biê?u dô` tra?ng tha´i
+ - Du?a trên kinh nghiê?m:  + Ðoa´n lô~i
+                                         + Kha´m pha´ ca´c lô~i 
+2. Ky~ thuâ?t biê?u thu´c du?a trên su? xa´c di?nh(black box)
+ a. Ky~ thuâ?t phân vu`ng tuong duong (EV)
+ b.  Phân ti´ch gia´ tri? biên(BAV)
+ c.  Lâ?p ba?ng quyê´t di?nh
+     Ca´c buo´c lâ?p ba?ng quyê´t di?nh
+       - Liê?t kê ca´c diê`u kiê?n va` ha`nh dô?ng
+       - Xa´c di?nh sô´ luo?ng kha? nang kê´t ho?p
+       - Ðiê`n thông tin kê´t ho?p va`o ba?ng
+       - Gia?m sô´ luo?ng va` xa´c di?nh sô´ luo?ng test case
+d. Biê?u dô` tra?ng tha´i
+
+
